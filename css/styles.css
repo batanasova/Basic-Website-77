@@ -1,3 +1,40 @@
+.container_12 {
+	background:url("../img/woodgrain.png")
+}
+/*LOGO */
+
+#logo {
+	background: #3C6;
+}
+/*Co.NAME*/
+#coname { 
+	background: #F0F;
+}
+/*NAV*/
+#nav{
+	background: #0FF;
+}
+
+/*ASIDE*/
+#aside {
+	background: FC3;
+}
+
+/* MAIN */
+#main {
+	background: #C6C;
+	
+
+/* Logo*/
+img {
+	border :10 px solid black;
+	padding: 10px;
+	margin: 20px;
+	borger-radius: 100px;
+	box-shadow 
+}
+
+
 /* Main Navigation */
 li {
   background: orange;
